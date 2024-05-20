@@ -1,5 +1,5 @@
 ## I am Luan Filipov 
- [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://www.linkedin.com/in/luan-gustavo-altruda-filipov-04360419a/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=dark)](https://www.wa.me/+55177237615) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@lgfilipov?si=xqy0vZKdcqkgIt90)
+ [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](http://wa.me/+5511977237615) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=dark)](https://www.linkedin.com/in/luan-gustavo-altruda-filipov-04360419a/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@lgfilipov?si=xqy0vZKdcqkgIt90)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lgfilipov&show_icons=true&theme=dark) 
 
